@@ -149,4 +149,3 @@ EMAIL_PORT = 465
 EMAIL_HOST_USER = 'nikita5hataloff@yandex.ru'
 EMAIL_HOST_PASSWORD = 'cCc-sSK-kwY-srA'
 EMAIL_USE_SSL = True
-

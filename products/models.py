@@ -1,5 +1,3 @@
-from importlib._common import _
-
 from django.db import models
 
 from users.models import User
@@ -54,4 +52,3 @@ class Basket(models.Model):
 
     def sum(self):
         return self.product.price * self.quantity
-
